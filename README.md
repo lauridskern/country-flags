@@ -6,3 +6,7 @@
 
 ### Self Hosted Usage
 Clone and host or free on netlify for example
+
+Flags kindly provided by 
+https://github.com/Yummygum/flagpack-core
+under MIT License
